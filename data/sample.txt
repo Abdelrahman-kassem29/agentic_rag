@@ -1,0 +1,11 @@
+This is a sample document for the agentic RAG pipeline.
+
+Agentic RAG combines retrieval-augmented generation with autonomous agents that can perform tasks, make decisions, and interact with tools.
+
+Key components:
+- Document ingestion and vector indexing
+- Retrieval mechanism for relevant information
+- Large language model for generation
+- Agent framework for orchestration
+
+This pipeline allows for intelligent question answering and task completion based on the provided knowledge base.
