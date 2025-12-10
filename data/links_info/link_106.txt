@@ -1,0 +1,129 @@
+Opinion and Fair Comment Privileges | Digital Media Law Project Skip to main content Welcome to the website of the Digital Media Law Project. The DMLP was a project of the Berkman Klein Center for Internet & Society from 2007 to 2014. Due to popular demand the Berkman Klein Center is keeping the website online, but please note that the website and its contents are no longer being updated . Please check any information you find here for accuracy and completeness. September 9, 2025 Primary links Home Legal Guide Threats Database Research & Response Blog About Digital Media Law Project Legal Resources for Digital Media Search form Search Opinion and Fair Comment Privileges The right to speak guaranteed by the First Amendment to the U.S.
+Constitution includes the right to voice opinions, criticize others,
+and comment on matters of public interest. It also protects the use of
+hyperbole and extreme statements when it is clear these are rhetorical
+ploys. Accordingly, you can safely state your opinion that others are
+inept, stupid, jerks, failures, etc. even though these statements might
+hurt the subject's feelings or diminish their reputations. Such terms
+represent what is called "pure opinions" because they can't be proven
+true or false. As a result, they cannot form the basis for a defamation
+claim. This is not to say that every statement of opinion is
+protected. If a statement implies some false underlying facts, it could
+be defamatory. For example, stating that "in my opinion, the mayor
+killed her husband" is not likely to be a protected opinion. Couching
+false statements of fact as opinion or within quotes from other sources
+generally won’t protect you either. Nor will trying to cover yourself
+by saying that a politician “allegedly” is a drug dealer, or that your
+neighbor said the politician “is a drug dealer,” or that in your
+opinion, the politician is a drug dealer. A reader may well assume you
+have unstated facts to base your conclusion on, and it would be a
+defamatory statement if the implied facts turn out to be false. All opinions that rely on underlying facts, however, are not
+necessarily outside the opinion privilege. If you state the facts on
+which you are basing your opinion, and the opinion you state could be
+reasonably drawn from those truthful facts, you will be protected even
+if your opinion turns out to be incorrect. For example, if you were to
+say "In my opinion, Danielle is failing out of school" it would likely
+lead your readers to assume that there are some unstated facts you
+relied on to draw your conclusion. Such a statement would not be
+protected, as the privilege does not protect back door entry of facts
+as "opinion" through innuendo. On the other hand, if you state "In my
+opinion, Danielle is failing out of school because she is a blond and
+the only thing I ever see her do at the library is check Facebook,"
+this provides the reader with the information you are basing the
+opinion on, and allows the reader to come to his own conclusion. Compare the following two statements: "During the last six months I've seen Carol in her backyard
+	five times at around 1:30pm on a weekday seated in a deck chair with a
+	beer in her hand. I think Carol must be an alcoholic." "I think Carol must be an alcoholic." The first example states true, non-defamatory facts upon which a
+reasonable conclusion (that Carol is an alcoholic) is based, and also
+emphasizes the limits of your knowledge (that you only saw Carol five
+times). It would be protected as a statement of opinion. Under the
+second example, readers would likely assume that there are unstated,
+defamatory facts upon which your conclusion is based. Therefore it
+would likely fall outside of the privilege. Keep in mind that even if you state the facts you are relying
+on for your opinion, but those facts turn out to be false, the
+privilege will not apply. For example, if you say that "In my opinion,
+Danielle is failing out of school because she failed biology," the
+privilege would not apply if she got a C in biology. To determine whether a statement is an opinion or a fact,
+courts will generally look at the totality of the circumstances
+surrounding the statement and its publication to determine how a
+reasonable person would view the statement. Under this test, the
+difference between an opinion and a fact often comes down to a
+case-by-case analysis of the publication's context. Distinguishing Between Statements of Fact and Opinion In general, facts are statements that can be proven true or
+false; by contrast, opinions are matters of belief or ideas that cannot
+be proven one way or the other. For example, "Chris is a thief" can be
+proven false by showing that throughout his entire life Chris never
+stole anything. Compare that statement with "Chris is a complete
+moron." The latter is an opinion (or, technically, "a pure opinion"),
+as what constitutes a moron is a subjective view that varies with the
+person: one person's moron is not necessarily the next person's moron.
+Put another way, there would be no way to prove that Chris is not a
+moron. If a statement is a "pure opinion," it cannot be the basis for a
+defamation claim. Of course, it is not always easy to determine whether a
+statement is a pure opinion. As we noted above, opinions that imply
+false underlying facts will not be protected. For example, stating that
+"Chris is insane" could be both a fact and an opinion. It could mean
+Chris has been diagnosed with psychosis and needs to be hospitalized in
+a mental institution; this could be proven false. It could also mean
+that Chris has wacky ideas that one doesn't agree with, which is an
+opinion. In determining which meaning the statement should be given,
+courts often rely on context and common-sense logic (or to phrase it in
+legalese, the "totality of circumstances" of the publication). For
+example, if one called Chris insane in a forum post as part of a heated
+argument over politics, the statement would likely be interpreted as an
+opinion. Some examples of protected opinions include the following: Statements in the "Asshole of the Month" column in Hustler
+	magazine that described a feminist leader as a "pus bloated walking
+	sphincter," "wacko," and someone who suffers from "bizarre paranoia"
+	were protected opinion because the context of the magazine and column
+	made it clear that the statements were "understood as ridicule or
+	vituperation" and "telegraph to a reader that the article presents
+	opinions, not allegations of fact." Leidholdt v. L.F.P. Inc. , 860 F.2d 890 (9th Cir. 1988). Statement in the New York Post that referred to the plaintiff
+	as a "fat, failed, former sheriff's deputy" was protected opinion
+	because it was hyperbole and had an "alliterative quality" with a
+	"rhetorical effect indicative of a statement of opinion." Jewell v. NYP
+	Holdings, Inc., 23 F. Supp.2d 348 (S.D.N.Y. 1998). Statements on a radio talk show that described the plaintiff
+	as a "chicken butt," "local loser" and "big skank" were not defamatory
+	because they were "too vague to be capable of being proven true or
+	false" and had "no generally accepted meaning." Seelig v. Infinity Broadcasting , 97 Cal. App. 4th 798  (Cal. Ct. App. 2002). A cartoon of a noted evangelist leader fornicating drunk in
+	an outhouse with his mother because the parody was so outrageous it
+	could not "reasonably be understood as describing actual facts" about
+	Falwell or events in which he participated. Hustler Magazine v. Falwell ,  485 U.S. 46, 53 (U.S. 1988). Keep in mind, however, that you can't make a statement an opinion
+merely by prefacing it with "in my opinion." Saying that "in my
+opinion, Alex stole ten dollars from the church collection basket"
+would lead most listeners to conclude you had evidence that Alex had
+indeed stolen the money, and that you intend the statement as one of
+fact rather than opinion. The courts do not give protection to false
+factual connotations disguised as opinions. Context and the Totality of the Circumstances In general, courts will look at the context and medium in which
+the alleged defamation occurred. For example, a statement is more
+likely to be regarded as an opinion rather than a fact if it occurs in
+an editorial blog as opposed to a piece of investigative journalism.
+The wider context may also provide a framework for the court: during
+the McCarthy-era witch hunts of the 1950s, for example, courts
+routinely held that referring to someone as a "Communist" was
+defamatory; in the present day, "communist" has taken on a more
+generalized (if still often derogatory) political meaning, and courts
+would almost certainly find use of the word to be a protected opinion. The Internet presents particular issues for the courts, as it
+is a medium where the lack of face-to-face contact can often make
+judging the actual meaning and context of a publication difficult.
+Courts are likely to take into account the particular social
+conventions of the Internet forum at issue in evaluating a statement's
+context. But much remains to be determined, such as how the courts
+would handle the nature of many discussion forums. A 2001 case that
+dealt with the opinion privilege is worth quoting at length as an
+indication of the approach courts may well take in determining whether
+an online posting is a statement of opinion or fact. In regards to a
+post on a financial bulletin board site the court noted: Here, the general tenor, the setting and the format of [the]
+	statements strongly suggest that the postings are opinion. The
+	statements were posted anonymously in the general cacophony of an
+	Internet chat-room in which about 1,000 messages a week are posted
+	about [the particular company]. The postings at issue were anonymous as
+	are all the other postings in the chat-room. They were part of an
+	on-going, free-wheeling and highly animated exchange about [the
+	particular company] and its turbulent history. . . . Importantly, the
+	postings are full of hyperbole, invective, short-hand phrases and
+	language not generally found in fact-based documents, such as corporate
+	press releases or SEC filings. Global Telemedia International, Inc. v. Doe 1 , 132 F.Supp.2d 1261, 1267 (C.D.Cal., 2001). In short, the court concluded that "the general tone and context of
+these messages strongly suggest that they are the opinions of the
+posters." Id . at 1267. It is likely that other courts will take
+a similarly broad view regarding Internet forums for purposes of the
+opinion privilege. To summarize, the factors courts often use to determine whether a statement is a protected opinion are: What is the common usage and specific meaning of the language used? Is the statement verifiable? Can it be proven false? What is the full context of the statement? What are the social conventions surrounding the medium the statement occurred in? Note that each state decides what is required to establish
+defamation and what defenses are available, so you should review your
+state's specific law in the State Law: Defamation section of this guide to determine how the opinion privilege operates in your jurisdiction. Jurisdiction: United States Subject Area: Defamation ‹ Substantial Truth up Fair Report Privilege › Printer-friendly version TABLE OF CONTENTS Forming a Business and Getting Online Dealing with Legal Threats and Risks Newsgathering and Privacy Access to Government Information Intellectual Property Risks Associated With Publication Publishing Information that Harms Another's Reputation Defamation Other Falsity-Based Legal Claims Who Can Sue For Defamation What is a Defamatory Statement Proving Fault: Actual Malice and Negligence Defamation Privileges and Defenses Substantial Truth Opinion and Fair Comment Privileges Fair Report Privilege Neutral Report Privilege Wire Service Defense Statute of Limitations State Law: Defamation False Light Responding to Strategic Lawsuits Against Public Participation (SLAPPs) Practical Tips for Avoiding Liability Associated with Harms to Reputation Publishing Personal and Private Information Publishing the Statements and Content of Others Correcting or Retracting Your Work After Publication Publishing Product or Service Endorsements Dealing with Foreign Legal Threats Unique Content: Special Risks Guides and Resources Subscribe to our content! Follow us on Twitter Username * Password * Request new password Recent Blog Posts Seven Years of Serving and Studying the Legal Needs of Digital Journalism 11 years 2 months ago DMLP Announcement: A New Report on Media Credentialing in the United States 11 years 3 months ago Will E.U. Court's Privacy Ruling Break the Internet? 11 years 4 months ago Baidu's Political Censorship is Protected by First Amendment, but Raises Broader Issues 11 years 4 months ago Hear Ye, Hear Ye! Some Federal Courts Post Audio Recordings Online 11 years 4 months ago Service and Research at the Frontier of Media Law 11 years 5 months ago DMLP Announcement: Live Chat Session on Tax-Exempt Journalism (UPDATED) 11 years 5 months ago A New Approach to Helping Journalism Non-Profits at the IRS 11 years 5 months ago more We are looking for contributing authors with expertise in media law, intellectual property, First Amendment, and other related fields to join us as guest bloggers. If you are interested, please contact us for more details. Disclaimer Information in this guide is based on general principles of law and is intended for information purposes only; we make no claim as to the comprehensiveness or accuracy of the information. It is not offered for the purpose of providing individualized legal advice. Use of this guide does not create an attorney-client or any other relationship between the user and the Digital Media Law Project or the Berkman Center for Internet & Society. Legal Guide Navigation Legal Guide Home Page Browse Guide Sections Browse by Subject Search the Guide Most Viewed Guide Pages Fair Use Recording Phone Calls and Conversations California Recording Law Using the Name or Likeness of Another New York Recording Law State Law: Recording Linking to Copyrighted Materials Texas Recording Law Main menu Home Legal Guide Threats Database Research & Response Blog About Copyright 2007-25 Digital Media Law Project and respective authors. Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 3.0 License: Details. Use of this site is pursuant to our Terms of Use and Privacy Notice .

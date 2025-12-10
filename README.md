@@ -22,7 +22,7 @@ agentic_rag_project/
 ├── data/
 │   ├── sample.txt       # Sample document for testing
 │   └── eval_examples.csv # Evaluation examples
-├── requirements.txt     # Python dependencies
+├── requirements.txt.     # Python dependencies
 ├── TODO.md             # Project tasks and progress
 └── README.md           # This file
 ```

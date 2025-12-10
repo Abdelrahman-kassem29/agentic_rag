@@ -6,3 +6,5 @@ python-dotenv>=1.0.0
 pypdf>=3.17.4
 unstructured>=0.10.30
 tiktoken>=0.5.1
+pandas>=1.0.0
+matplotlib>=3.0.0
