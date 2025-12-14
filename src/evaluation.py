@@ -25,26 +25,40 @@ def run_evaluation(
     for _, row in df.iterrows():
         question = row["question"]
         ground_truth = row["ground_truth"]
+        category = row["category"]
 
         # Run Agentic RAG
         response = agent.invoke({"messages": [{"role": "user", "content": question}]})
         answer = response["answer"]
         predictions.append(answer)
 
-        # BLEU
-        bleu = sentence_bleu(
-            [ground_truth.split()],
-            answer.split(),
-            smoothing_function=smoothie
-        )
+        if category == "Subjective Opinions":
+            # For subjective questions, set scores to 0 as BLEU/ROUGE are not applicable
+            bleu = 0.0
+            rouge1 = 0.0
+            rouge2 = 0.0
+            rougeL = 0.0
+        else:
+            # For objective categories, use true_answer as reference if ground_truth is "True", else false_answer
+            reference = row["true_answer"] if ground_truth == "True" else row["false_answer"]
 
-        # ROUGE
-        rouge_scores = rouge.score(ground_truth, answer)
+            # BLEU
+            bleu = sentence_bleu(
+                [reference.split()],
+                answer.split(),
+                smoothing_function=smoothie
+            )
+
+            # ROUGE
+            rouge_scores = rouge.score(reference, answer)
+            rouge1 = rouge_scores["rouge1"].fmeasure
+            rouge2 = rouge_scores["rouge2"].fmeasure
+            rougeL = rouge_scores["rougeL"].fmeasure
 
         bleu_scores.append(bleu)
-        rouge1_scores.append(rouge_scores["rouge1"].fmeasure)
-        rouge2_scores.append(rouge_scores["rouge2"].fmeasure)
-        rougeL_scores.append(rouge_scores["rougeL"].fmeasure)
+        rouge1_scores.append(rouge1)
+        rouge2_scores.append(rouge2)
+        rougeL_scores.append(rougeL)
 
     # Save results
     df["prediction"] = predictions
@@ -89,3 +103,7 @@ def run_evaluation(
     plt.clf()
 
     print("Charts saved: bleu.png, rouge1.png, rouge2.png, rougeL.png")
+
+
+if __name__ == "__main__":
+    run_evaluation()

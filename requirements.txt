@@ -8,3 +8,5 @@ unstructured>=0.10.30
 tiktoken>=0.5.1
 pandas>=1.0.0
 matplotlib>=3.0.0
+nltk>=3.8.0
+rouge-score>=0.1.0
